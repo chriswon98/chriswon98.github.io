@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/honolulu_seal.png
-title: Micromouse
+title: Automating City Planning
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-07-31
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - ArcGIS
+  - Automation
+summary: Developed a Python script to detect location and time conflicts of city projects/events and automatically email project organizers.
 ---
 
 <div class="ui small rounded images">
