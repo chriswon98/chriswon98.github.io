@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/honolulu_seal.png
 title: Automating City Planning
-permalink: projects/micromouse
+permalink: projects/Pookela
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-31
 labels:
