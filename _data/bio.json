@@ -24,34 +24,23 @@
         "network": "linkedin",
         "username": "chriswon98",
         "url": "http://linkedin.com/in/chriswon98"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "app development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Android",
       ]
     },
     {
-      "name": "data mining",
+      "name": "computer engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "cybersecurity",
       "keywords": [
       ]
     }
@@ -63,10 +52,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Javascript"
       ]
     },
     {
