@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/honolulu_seal.png
-title: Pookela: Automating City Planning
+title: Pookela Automating City Planning
 permalink: projects/pookela
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-31
