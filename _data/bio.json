@@ -1,51 +1,57 @@
 {
   "basics": {
-    "name": "Christopher Won",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://chriswon98.github.io/images/chris.png",
-    "email": "wonc@hawaii.edu",
-    "phone": "808-391-8546",
-    "website": "https://chriswon98.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96789",
-      "city": "Mililani",
+      "postalCode": "96822",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "chriswon98",
-        "url": "http://github.com/chriswon98"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "chriswon98",
-        "url": "http://linkedin.com/in/chriswon98"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "app development",
+      "name": "internet of things",
       "keywords": [
-        "Android"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "computer engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "cybersecurity",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "software",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -57,28 +63,30 @@
       "keywords": [
         "C",
         "C++",
-        "Python",
-        "Javascript"
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "ArcGIS",
-        "MATLAB"
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2020)",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2016",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -87,42 +95,75 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Department of Language and Technology",
-      "position": "Lab Monitor",
-      "website": "https://clt.manoa.hawaii.edu/",
-      "startDate": "2017-02-01",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Computer troubleshooting and community interaction",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Assist students, staff, and visitors utilize the local and online resources provided by the Department of Language and Technology at UH Mānoa",
-        "Examples include: using Microsoft Office, speech recording, and using Windows 10 OS"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "City and County of Honolulu",
-      "position": "Pookela Program Student Intern",
-      "website": "https://www.honolulu.gov/hr/pookela.html",
-      "startDate": "2019-01-01",
-      "endDate": "2019-07-31",
-      "summary": "Department of Information Technology, Geopgraphic Information Systems",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
       "highlights": [
-        "Use Python to automate and develop applications for the Lokahi Project",
-        "Use ArcGIS software to develop and maintain the Lokahi Project"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Chancellor Scholarship",
-      "date": "2016-Present",
-      "awarder": "University of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen students with a minimum overall GPA of 3.8 and an 1800 SAT score. These awards are renewable up to 8 consecutive semesters. Students must maintain an overal 3.0 GPA."
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
     {
       "name": "Available upon request",
-      "referece": ""
+      "reference": ""
     }
   ]
 }
