@@ -22,31 +22,30 @@ The features of this game included:
 <pre>
 <hr>
 ## Weapon types
-  1. __Lance__  
+  1. Lance  
     *Strong against Sword but weak against Axe. (Warrior class only)*
-  2. __Sword__  
+  2. Sword  
     *Strong against Axe but weak against Lance. (Warrior class only)*
-  3. __Axe__  
+  3. Axe 
     *Strong against Lance but weak against Sword. (Warrior class only)*
-  4. __Staff__
+  4. Staff
     *Neutral effectiveness (Mage class only)*
 
 ## Weapon rarity
-  1. __Bronze__  
+  1. Bronze  
     *Lowest possible rating.*
-  2. __Silver__  
+  2. Silver 
     *Stronger than Bronze but weaker than Gold.*
-  3. __Gold__  
+  3. Gold  
     *Stronger than Silver but weaker than Platinum.*
-  4. __Platinum__  
+  4. Platinum 
     *Stronger than Gold but weaker than Diamond.*
-  5. __Diamond__
+  5. Diamond
     *Stronger than Platinum but weaker than Legendary.*
-  6. __Legendary__  
+  6. Legendary  
     *Highest possible rating.*
 
 ## Spells
-  __[Description]__
   *Each class has three sets of spells for different weapon and element types
    and one default set for having no weapon.  Each set of spells has four different
    unique spells. Switching to a different weapon or element type will change your set
@@ -56,73 +55,71 @@ The features of this game included:
   *Stats {HP/ATK/DEF}*
 
 ### Beast (Tier 1) Takes full (normal dmg)  
-  1. __Wolves__  
-		*3 / 3 / 1*
-  2. __Cougars__  
-    *3 / 4 / 0*
- 	3. __Bears__  
-		*3 / 2 / 2*
+  1. Wolves  
+	*3 / 3 / 1*
+  2. Cougars  
+    	*3 / 4 / 0*
+ 3. Bears 
+	*3 / 2 / 2*
 
 ### Bandits (Tier 2)  
-  1. __Highway Bandit__  
+  1. Highway Bandit  
 		*20 / 4 / 2*
-  2. __Rouge Knight - random triangle weapon__  
+  2. Rouge Knight - random triangle weapon  
 		*30 / 3 / 5*
-  3. __Rogue Mage - Random element__  
+  3. Rogue Mage - Random element  
 		*20 / 7 / 0*
 
 ### Skeleton (Tier 3)  
-  1. __Skeleton Warrior - random triange weapon__  
+  1. Skeleton Warrior - random triange weapon  
 		*40 / 7 / 7*
-  2. __Skeleton Mage - random element__  
+  2. Skeleton Mage - random element  
 		*30 / 15 / 0*
-  3. __Skeleton Archer__
-    *30 / 12 / 2*
-  4. __Arch Lich - random element__  
+  3. Skeleton Archer
+    		*30 / 12 / 2*
+  4. Arch Lich - random element 
 		*50 / 8 / 5*
 
 ### Horrors (Tier 4)  
-  1. __Deformed beast - random element__  
+  1. Deformed beast - random element  
 		*40 / 20 / 0*
-  2. __Deformed humans - random element and weapon__  
+  2. Deformed humans - random element and weapon  
 		*60 / 10 / 10*
-  3. __Other worldly horrors - random element and weapon__  
+  3. Other worldly horrors - random element and weapon  
 		*60 / 15 / 10*
-  4. __Horror gate guarded - random element and weapon__  
+  4. Horror gate guarded - random element and weapon  
 		*100 / 10 / 15*
 
 ### Demon (Tier 5)
-  1. __Fire Demon - Fire element__  
+  1. Fire Demon - Fire element  
     *100 / 20 / 10*  
-  2. __Nature Demon - Nature element__  
+  2. Nature Demon - Nature element  
     *200 / 15 / 15*  
-  3. __Water Demon - Water element__   
+  3. Water Demon - Water element  
     *300 / 10 / 20*  
 
 ### The Demon (Tier 6)
-  1. __Satan (final boss)__  
+  1. Satan (final boss) 
     *500 / 30 / 30*  
 
 ### Stages
-  __[Description]__
   *Defeat enemies to collect their souls that will be used to move on further
   into the dungeon*
 
 ## Random Events
 *Choose between two paths that will randomly decide your fate*
-  1. __Heal event__
-  2. __Beggar event__
-  3. __Loot events__
-  4. __Resting event__
-  5. __Trap event__
-  6. __Enemy event__
+  1. Heal event
+  2. Beggar event
+  3. Loot events
+  4. Resting event
+  5. Trap event
+  6. Enemy event
 
 ## Color HUD
-  __[Description]__
   *Color helps distinguish important windows. For example, your stats appear
   in a blue window and the enemy stats appear in a red window*
-</hr>
 </pre>
+<hr>
 Bellow is concept art I created for the game logo.
 
 <img class="ui image" src="../images/soulquest.png">
