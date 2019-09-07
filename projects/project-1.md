@@ -15,6 +15,7 @@ summary: Developed a Python script to detect location and time conflicts of city
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ArcGIS_logo.png">
+  <img class="ui image" src="../images/honolulu_seal.png">
 </div>
 
 The City and County of Honolulu's Pookela Internship program places college students in various departments within the city government and pair those students with several mentors within that department.  
