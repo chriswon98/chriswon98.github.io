@@ -111,6 +111,18 @@
       ]
     }
   ],
+  "volunteer": [
+      {
+        "organization": "University of Hawaii at Manoa",
+        "website": "",
+        "position": "Japanese Tour Volunteer",
+        "startDate": "2017-01-01",
+        "endDate": "2017-05-01",
+        "summary": "Guided incoming Japanese exchange students from Japan",
+        "highlights": [
+        ]
+      }
+    ],
   "awards": [
     {
       "title": "Chancellor Scholarship",
