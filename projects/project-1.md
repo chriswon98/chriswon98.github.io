@@ -25,7 +25,7 @@ Lokahi is an application developed at the City and County using ArcGIS. Produced
 
 My new service was to create a Python service that automatically checked the project data from several agencies within the City and County of Honolulu and determine if proposed future projects conflicted with other present/future projects. For example, the Board of Water Supply planned a major water main replacement in front of Ala Moana shopping center on the first week of July next year. Also at the same time, the Department of Transportation Services wanted to install new Bike Shelters in front of Ala Moana shopping center.
 
-Using the functions within the arcpy library, the Python analyze for spatial (same location) and time conflicts and store that information into the geodatabase. It would then run through that data and send out emails to the supervisors of those projects to warn them that there is a potential conflict with another city project.
+Using the functions within the arcpy library, the Python script would analyze for spatial (same location) and time conflicts and store that information into the geodatabase. It would then run through that data and send out emails to the supervisors of those projects to warn them that there is a potential conflict with another city project. This service would run daily at night so that the emails were present for the supervisors to check in the morning.
 
 I am legally not allowed to provide the code as it is property of the City and County of Honolulu. The following is an example of how Python was used with [ArcGIS](https://pro.arcgis.com/en/pro-app/tool-reference/analysis/spatial-join.htm).
 
