@@ -19,10 +19,13 @@ summary: Developed a Python script to detect location and time conflicts of city
   <img class="ui image" src="../images/esri.jpg">
 </div>
 
-The City and County of Honolulu's Pookela Internship program places college students in various departments within the city government and pair those students with several mentors within that department.  
-As part of the City and County of Honolulu's Pookela internship program, I worked on several projects to use Python automation to improve the planning of projects and events for the various departments within the city government.
+The City and County of Honolulu's Pookela Internship program places college students in various departments within the city government and pairs those students with mentors from that department. As part of the Pookela Class of 2019, I worked on several projects with the Department of Information Technology, Geographic Information Systems Division. The final project I finished during my internship was a new service for the Lokahi application.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Lokahi is an application developed at the City and County using ArcGIS. Produced by Esri, ArcGIS is a geographic information system software used to create maps, compile geographic data, analyze mapped information, sharing/discovering geographic information, and managing geographic information in a databse. Esri also included a custom Python library (arcpy) with the software.
+
+My new service was to create a Python service that automatically checked the project data from several agencies within the City and County of Honolulu and determine if proposed future projects conflicted with other present/future projects. For example, the Board of Water Supply planned a major water main replacement in front of Ala Moana shopping center on the first week of July next year. Also at the same time, the Department of Transportation Services wanted to install new Bike Shelters in front of Ala Moana shopping center.
+
+Using the functions within the arcpy library, the Python analyze for spatial (same location) and time conflicts and store that information into the geodatabase. It would then run through that data and send out emails to the supervisors of those projects to warn them that there is a potential conflict with another city project.
 
 I am legally not allowed to provide the code as it is property of the City and County of Honolulu. The following is an example of how Python was used with [ArcGIS](https://pro.arcgis.com/en/pro-app/tool-reference/analysis/spatial-join.htm).
 
