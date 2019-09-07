@@ -36,7 +36,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-Please visit the[UH Micromouse Website](https://www.honolulu.gov/hr/pookela.html) for more details.
+Please visit the [Pookela Program Website](https://www.honolulu.gov/hr/pookela.html) for more details.
 
 
 
