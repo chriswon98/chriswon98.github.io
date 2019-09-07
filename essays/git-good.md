@@ -12,17 +12,15 @@ labels:
 ---
 ## My journey so far
 
-First off, I would like to mention how lucky the younger generation is to experience programing at a young age. At my old high school, they now host summer camps for elmentary schoolers to learn coding for several weeks. I cannot reverse time and redo my life with coding at an early age. For those starting off in their later years, this is a story for you.
+First off, I would like to mention how lucky the younger generation is to experience programing at a young age. At my old high school, they now host summer camps for elmentary schoolers to learn coding for several weeks. I cannot reverse time and start coding from an early age. For those starting off in their later years, this is a story for you.
 
-As a high schooler, I wanted to become an aerospace engineer but there were no such programs avaiable in Hawaii back in 2016. Thus, I went for my second choice to study electrical engineering. It wasn't until the second semester of college that I took my first course in programing, an introduction to C. 
+As a high schooler, I wanted to become an aerospace engineer but there were no such programs avaiable in Hawaii back in 2016. Thus, I went for my second choice to study electrical engineering. It wasn't until the second semester of college that I took my first course in programing, an introduction to C. I struggled in the beginning as most of my peers had some background in programing and they easily finished programing assignments. I, on the other hand, was usually one of the last to finish. I felt like I was slamed to the ground and couldn't get up. It was then and there that I decided that I needed to change my approach.
+
+The first step was getting help from my professor and TA. I asked them if they could explain the concepts in a different way as I didn't catch on in the lecture. The second step, and prehaps the key step, was a lot of practice. This involved redoing the practice code several times and trying my own variations of that code. Eventually, I caught up to my peers and could preform just as well as they did. Several years later, I am proficent in several languages (C, C++, Python) and have greater confidence in my programing skills.
 
 ## It's like riding a bike
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+As mentioned earlier, practice is key. I like to remind myself that coding is like riding a bike. The first few attempts are highly to result in the bike crashing. With warning and errors flashing on the screen, it can feel highly discouraging to get on that bike again. From there progress is gradually made until the training wheels come off and more complicated manuvers (i.e. object oriented programing) are attempted. Then comes large projects like creating a video game. All along the way it is possible (and likely) for the bike to crash again. However, practice is what helps riding the bike (coding) to be less scary and decreses the chances of severe bike crashes in the future.
 
 ## Problem solving?
 
