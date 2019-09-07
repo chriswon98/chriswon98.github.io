@@ -11,6 +11,7 @@ labels:
   - Programing Languages
   
 ---
+<img class="ui image" src="../images/lang.png">
 
 ## JavaScript vs the rest of the crowd
 
