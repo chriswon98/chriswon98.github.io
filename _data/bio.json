@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://chriswon98.github.io/images/chris.png",
     "email": "wonc@hawaii.edu",
-    "phone": "",
+    "phone": "808-391-8546",
     "website": "https://chriswon98.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -43,6 +43,11 @@
       "name": "cybersecurity",
       "keywords": [
       ]
+    },
+    {
+      "name": "software",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -58,13 +63,13 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Proficent",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "ArcGIS",
+        "MATLAB"
       ]
     }
   ],
@@ -108,16 +113,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Chancellor Scholarship",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen students with a minimum overall GPA of 3.8 (4.0 scale) and an 1800 SAT score. These awards are renewable up to 8 consecutive semesters. Students must maintain an overal 3.0 GPA."
     }
   ],
   "references": [
