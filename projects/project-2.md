@@ -13,7 +13,7 @@ labels:
 summary: A text-based dungeon crawling game for EE205, Object Oriented Programing in C++.
 ---
 
-<img class="ui image" src="../images/soulquest.png">
+<img class="ui medium rounded image" src="../images/soulquest.png">
 
 SoulQuest is a text-based dungeon crawler game inspired by the likes of Frontier and Oregon Trail. This was completed along with several other students for EE205, a course on object oriented programing with C++.
 
