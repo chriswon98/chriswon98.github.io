@@ -10,6 +10,8 @@ labels:
   - Future Goals
   - Experience
 ---
+<img class="ui image" src="../images/confused.jpg">
+
 ## My journey so far
 
 First off, I would like to mention how lucky the younger generation is to experience programing at a young age. At my old high school, they now host summer camps for elementary schoolers to learn coding for several weeks. I cannot reverse time and start coding from an early age. For those starting off in their later years, this may be a story for you.
