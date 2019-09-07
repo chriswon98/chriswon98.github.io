@@ -10,15 +10,13 @@ labels:
   - Future Goals
   - Experience
 ---
-## How
+## My journey so far
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+First off, I would like to mention how lucky the younger generation is to experience programing at a young age. At my old high school, they now host summer camps for elmentary schoolers to learn coding for several weeks. I cannot reverse time and redo my life with coding at an early age. For those starting off in their later years, this is a story for you.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+As a high schooler, I wanted to become an aerospace engineer but there were no such programs avaiable in Hawaii back in 2016. Thus, I went for my second choice to study electrical engineering. It wasn't until the second semester of college that I took my first course in programing, an introduction to C. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
+## It's like riding a bike
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
@@ -26,7 +24,7 @@ The Honolulu Rail project at home has become this sort of poster child of failur
 
 The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## Problem solving?
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
