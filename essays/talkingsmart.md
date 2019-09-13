@@ -25,7 +25,7 @@ Eric Raymond's ["How to Ask Questions the Smart Way"](http://www.catb.org/esr/fa
 
 The following [StackOverflow question](https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example) follows the guidelines for asking a question the smart way. In this example, the user makes his question asseciable by sperating his smaple code into code blocks for others to try his code. Additionally, he clearly states his goals by explaining what the desired result is and what is curretly being outputed.
 
-'''
+```
 It outputs this:
 
 My value: 3
@@ -37,7 +37,7 @@ Whereas I'd like it to output:
 My value: 0
 My value: 1
 My value: 2
-'''
+```
 
 This also demonstrates that he tried solving his problem on his own and 
 
