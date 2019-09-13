@@ -23,4 +23,21 @@ Eric Raymond's ["How to Ask Questions the Smart Way"](http://www.catb.org/esr/fa
 
 ## Example 1: A Question Asked the "Smart" Way
 
-## Example 2: A Question Asked _Not_ in the "Smart" Way
+The following [StackOverflow question](https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example) follows the guidelines for asking a question the smart way. In this example, the user makes his question asseciable by sperating the code into code blocks for others to try his code. Additionally, he clearly states his goals by explaining what the desired result is and what is curretly being outputed.
+'''
+It outputs this:
+
+My value: 3
+My value: 3
+My value: 3
+
+Whereas I'd like it to output:
+
+My value: 0
+My value: 1
+My value: 2
+'''
+
+## Example 2: A Question Asked the _Not_ "Smart" Way
+
+## Conclusion
