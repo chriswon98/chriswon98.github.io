@@ -9,8 +9,9 @@ labels:
   - Communication
   - Stack Overflow
 ---
-
-<img class="ui medium left floated image" src="../images/questions.png">
+<p align="center">
+  <img class="ui image" src="../images/questions.png">
+</p>
 
 ## Asking Questions is All About the Form
 
