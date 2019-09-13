@@ -1,16 +1,18 @@
 ---
 layout: essay
 type: essay
-title: It's All About the Technique
+title: The Quest for Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
   - Smart Questions
   - Communication
-  - Problem Solving
+  - Stack Overflow
 ---
 
-## Asking Questions Is All About the Form
+<img class="ui medium left floated image" src="../images/questions.png">
+
+## Asking Questions is All About the Form
 
 > "But every question is a cry to understand the world. There is no such thing as a dumb question"
 > -Carl Sagan, _The Demon-Haunted World: Science as a Candle in the Dark_.
