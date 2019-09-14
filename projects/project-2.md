@@ -13,7 +13,7 @@ labels:
 summary: A text-based dungeon crawling game made using C++.
 ---
 <p align="center">
-  <img class="ui medium image" src="../images/soulquestin.png">
+  <img class="ui image" src="../images/soulquestin.png">
 </p>
 
 ## Building from a Childhood Passion
