@@ -21,11 +21,11 @@ summary: Developed a Python script to detect location and time conflicts of city
 
 ## Building a Smarter City
 
-Perhaps you've heard the jokes about how the government is slow, inefficient, and is just overall bad when it comes to completing projects. However, for the 14th Mayor of the City and County of Honolulu [Kirk Cadwell](https://www.kirkcaldwell.org/) wanted to change that. He envisioned the city of Honolulu evolving through the application of technology. I had the opprotunity to help in this endevour through the Pookela internship program.
+Perhaps you've heard the jokes about how the government is slow, inefficient, and is just overall bad when it comes to completing projects. However, for the 14th Mayor of the City and County of Honolulu [Kirk Caldwell](https://www.kirkcaldwell.org/) wanted to change that. He envisioned the city of Honolulu evolving through the application of technology. I had the opportunity to help in this endeavor through the Pookela internship program.
 
 ## The City's Internship Program
 
-The City and County of Honolulu's [Pookela Internship program](https://www.honolulu.gov/hr/pookela.html) places college students in various departments within the city government and pairs those students with mentors from that department. As part of the Pookela Class of 2019, I worked on several projects with the Department of Information Technology, Geographic Information Systems Division. I worked under the supervison of three mentors and had weekly progress report meetings to discuss my progress and any concerns I had. The final project I finished during my internship was a new conflict search service for the Lokahi application.
+The City and County of Honolulu's [Pookela Internship program](https://www.honolulu.gov/hr/pookela.html) places college students in various departments within the city government and pairs those students with mentors from that department. As part of the Pookela Class of 2019, I worked on several projects with the Department of Information Technology, Geographic Information Systems Division. I worked under the supervision of three mentors and had weekly progress report meetings to discuss my progress and any concerns I had. The final project I finished during my internship was a new conflict search service for the Lokahi application.
 
 ## Helping Build the Lokahi Application
 
@@ -37,7 +37,7 @@ Using the functions within the arcpy library, the Python script would analyze fo
 
 ## Lessons Learned
 
-From my time in the Pookela internship program, I gained a tremendous amount of experience regarding coding in a professional enviornment. The greatest takeaway of getting into the habbit of creating detailed documentation.
+From my time in the Pookela internship program, I gained a tremendous amount of experience regarding programming in a professional environment. Perhaps the greatest takeaway was the necessity of proper documentation. Since my conflict search function may require updating in the future, the next person reading my code needs to understand what I did and why. It felt very tedious at first, but with assistance from my mentors I was able tackle my bad habit of barebones documentation.
 
 I am legally not allowed to provide the code as it is property of the City and County of Honolulu. The following is an example of how Python was used with [ArcGIS](https://pro.arcgis.com/en/pro-app/tool-reference/analysis/spatial-join.htm).
 
