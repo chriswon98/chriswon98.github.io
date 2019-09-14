@@ -10,8 +10,13 @@ labels:
   - C++
   - Video Game
   - GitHub
-summary: A text-based dungeon crawling game for EE205, Object Oriented Programing in C++.
+summary: A text-based dungeon crawling game made using C++.
 ---
+<p align="center">
+  <img class="ui large image" src="../images/soulquestin.png">
+</p>
+
+## Building from a Childhood Passion
 
 Soul Quest is a text-based dungeon crawler game inspired by the likes of Frontier and Oregon Trail. This was completed along with several other students for EE205, a course on object-oriented programing with C++. We used object-oriented programing to create the multitude of weapon types and monster types through the use of classes and inheritance. For example, the weapons lance, sword, and axe all inherited attributes (i.e. weapon attack level) from a base weapon class.
 
@@ -21,8 +26,7 @@ The premise of the game is as follows: "Through unfortunate circumstances, your 
 
 The features of this game included:
 
-<pre>
-<hr>
+'''
 ## Weapon types
   1. Lance  
     *Strong against Sword but weak against Axe. (Warrior class only)*
@@ -120,14 +124,10 @@ The features of this game included:
 ## Color HUD
   *Color helps distinguish important windows. For example, your stats appear
   in a blue window and the enemy stats appear in a red window*
-</pre>
-<hr>
+'''
+
 Bellow is concept art I created for the game logo.
 
 <img class="ui image" src="../images/soulquest.png">
-
-Bellow is a sample of the in-game text interface.
-
-<img class="ui image" src="../images/soulquestin.png">
  
-Source: <a href="https://github.com/chriswon98/EE205/tree/master/Final/project"><i class="large github icon"></i>EE205</a>
+All source code and documentation can be found here: <a href="https://github.com/chriswon98/EE205/tree/master/Final/project"><i class="large github icon"></i>EE205</a>
