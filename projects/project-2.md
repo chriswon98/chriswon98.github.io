@@ -13,21 +13,22 @@ labels:
 summary: A text-based dungeon crawling game made using C++.
 ---
 <p align="center">
-  <img class="ui large image" src="../images/soulquestin.png">
+  <img class="ui image" src="../images/soulquestin.png">
 </p>
 
 ## Building from a Childhood Passion
 
 Soul Quest is a text-based dungeon crawler game inspired by the likes of Frontier and Oregon Trail. This was completed along with several other students for EE205, a course on object-oriented programing with C++. We used object-oriented programing to create the multitude of weapon types and monster types through the use of classes and inheritance. For example, the weapons lance, sword, and axe all inherited attributes (i.e. weapon attack level) from a base weapon class.
 
-This project was also the first time I used GitHub as a collaborative tool. We initially had problems with merge conflicts because multiple group members were editing the same lines of code. In turn, we improved our delegation of roles and communication to avoid future merge conflicts. My role in the group was to work on weapon classes and implement the use of color text.
+
+## The Story Told
 
 The premise of the game is as follows: "Through unfortunate circumstances, your beloved wife died in a fire and wish to see her once again. In a desperate bid, you sell your soul to a demon for a chance of bringing your wife back from the underworld. Halfway through the ritual, you blackout and awake in the Demon's dungeon. It was a trick! Now you must make your way through the dungeon, confront the demon and reclaim your soul (and maybe your wife)."
 
-The features of this game included:
+The main feature of this game was the varity of enemies encountered and the multitude of ways you could fight them:
 
-'''
-## Weapon types
+```md
+### Weapon types
   1. Lance  
     *Strong against Sword but weak against Axe. (Warrior class only)*
   2. Sword  
@@ -37,7 +38,7 @@ The features of this game included:
   4. Staff
     *Neutral effectiveness (Mage class only)*
 
-## Weapon rarity
+### Weapon rarity
   1. Bronze  
     *Lowest possible rating.*
   2. Silver 
@@ -51,21 +52,21 @@ The features of this game included:
   6. Legendary  
     *Highest possible rating.*
 
-## Spells
+### Spells
   *Each class has three sets of spells for different weapon and element types
    and one default set for having no weapon.  Each set of spells has four different
    unique spells. Switching to a different weapon or element type will change your set
    of spells.*
 
-## Enemy types
+### Enemy types
   *Stats {HP/ATK/DEF}*
 
 ### Beast (Tier 1) Takes full (normal dmg)  
   1. Wolves  
 	*3 / 3 / 1*
   2. Cougars  
-    	*3 / 4 / 0*
- 3. Bears 
+    *3 / 4 / 0*
+  3. Bears 
 	*3 / 2 / 2*
 
 ### Bandits (Tier 2)  
@@ -112,7 +113,7 @@ The features of this game included:
   *Defeat enemies to collect their souls that will be used to move on further
   into the dungeon*
 
-## Random Events
+### Random Events
 *Choose between two paths that will randomly decide your fate*
   1. Heal event
   2. Beggar event
@@ -121,10 +122,14 @@ The features of this game included:
   5. Trap event
   6. Enemy event
 
-## Color HUD
+### Color HUD
   *Color helps distinguish important windows. For example, your stats appear
   in a blue window and the enemy stats appear in a red window*
-'''
+```
+
+## Dispose of Your Foe
+
+For this project, I was responsible for creating and implimenting the weapons. I started 
 
 Bellow is concept art I created for the game logo.
 
