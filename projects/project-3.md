@@ -22,7 +22,7 @@ Imagine you're a student and you just had a rough morning. You've overslept your
 For my sophomore engineering project, my group and I attempted to solve that nightmare. The Smart Cubby is a custom-made cubby with an Arduino Uno microcontroller paired with a custom Android app also called "Smart Cubby". The Smart Cubby was constructed from plastic and had a total of 10 compartments, one of which housed the Arduino Uno microcontroller. The five larger slots were used for textbooks and the four smaller slots for other items (i.e. calculator). Each of the compartments had an LED light. These would turn on to indicate what items you needed for the school day. An RFID reader and kept track of what was in each compartment by scanning the RFID sticker tags on each item. The Android app allowed the user to input their schedule and related school supplies. This would then connect with the Arduino Uno via Bluetooth and tell which compartments to light up.
 
 <p align="center">
-  <img class="ui image" src="../images/cubby.jpg">
+  <img class="ui medium image" src="../images/cubby.jpg">
 </p>
 
 ## Working in a Team

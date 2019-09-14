@@ -13,7 +13,7 @@ labels:
 summary: A text-based dungeon crawling game made using C++.
 ---
 <p align="center">
-  <img class="ui image" src="../images/soulquestin.png">
+  <img class="ui medium image" src="../images/soulquestin.png">
 </p>
 
 ## Building from a Childhood Passion
@@ -140,7 +140,7 @@ This was the first project that I used GitHub in a group setting. As the individ
 This project was also a great opportunity to practice skills other than programing. For example, I got some graphic design practice with creating the logo for the game (shown below).
 
 <p align="center">
-  <img class="ui image" src="../images/soulquest.png">
+  <img class="ui medium image" src="../images/soulquest.png">
 </p>
  
 All source code and documentation can be found here: <a href="https://github.com/chriswon98/EE205/tree/master/Final/project"><i class="large github icon"></i>EE205</a>
