@@ -15,7 +15,7 @@ summary: A smart cubby and Android app system designed to improve organization o
 
 ## A Student's Nightmare
 
-Imagine you're a student and you just had a rough morning. You've overslept your alarm clock and barely made it on time to class. The teacher walks in and says, "Alright everyone, please take out your calculators for today's math exercise." As you reach into your bag, you freeze with shock as you realize that you had left your calculator in your room the night before. If only there was some other solution to be better organized?!
+Imagine you're a student and you just had a rough morning. You've overslept your alarm clock and barely made it on time to class. The teacher walks in and says, "Alright everyone, please take out your calculators for today's math exercise." As you reach into your bag, you freeze with shock as you realize that you had left your calculator in your room the night before. If only there was some other solution to be better organized?
 
 ## A "Smart" Solution
 
