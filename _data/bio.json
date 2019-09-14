@@ -29,23 +29,28 @@
     },
     "interests": [
       {
-        "name": "app development",
+        "name": "App Development",
         "keywords": [
           "Android"
         ]
       },
       {
-        "name": "computer engineering",
+        "name": "Computer Engineering",
         "keywords": [
         ]
       },
       {
-        "name": "cybersecurity",
+        "name": "Cybersecurity",
         "keywords": [
         ]
       },
       {
-        "name": "software",
+        "name": "Game Development",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Geographic Information Systems",
         "keywords": [
         ]
       }
@@ -82,7 +87,11 @@
         "endDate": "Present",
         "gpa": "",
         "courses": [
-        
+            "EE 205: Object Oriented Programming",
+            "EE 260: Digital Design",
+            "EE 361: Digital Systems and Computer Design",
+            "EE 367: Computer Data Structures and Algorithms",
+            "COMG 251A: Principles of Effective Public Speaking, Honors"
         ]
       }
     ],
@@ -119,7 +128,7 @@
           "position": "Japanese Tour Volunteer",
           "startDate": "2017-01-01",
           "endDate": "2017-05-01",
-          "summary": "Guided incoming Japanese exchange students from Japan",
+          "summary": "Guided exchange stuents from Japan around the UH Manoa campus and engaged in cultural exchange.",
           "highlights": [
           ]
         }
