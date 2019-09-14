@@ -25,7 +25,7 @@ Soul Quest is a text-based dungeon crawler game inspired by the likes of Frontie
 
 The premise of the game is as follows: "Through unfortunate circumstances, your beloved wife died in a fire and wish to see her once again. In a desperate bid, you sell your soul to a demon for a chance of bringing your wife back from the underworld. Halfway through the ritual, you blackout and awake in the Demon's dungeon. It was a trick! Now you must make your way through the dungeon, confront the demon and reclaim your soul (and maybe your wife)."
 
-The main feature of this game was the varity of enemies encountered and the multitude of ways you could fight them:
+The main feature of this game was the variety of enemies encountered and the multitude of ways you could fight them:
 
 ```md
 ### Weapon types
@@ -78,7 +78,7 @@ The main feature of this game was the varity of enemies encountered and the mult
 		*20 / 7 / 0*
 
 ### Skeleton (Tier 3)  
-  1. Skeleton Warrior - random triange weapon  
+  1. Skeleton Warrior - random triangle weapon  
 		*40 / 7 / 7*
   2. Skeleton Mage - random element  
 		*30 / 15 / 0*
@@ -129,10 +129,18 @@ The main feature of this game was the varity of enemies encountered and the mult
 
 ## Dispose of Your Foe
 
-For this project, I was responsible for creating and implimenting the weapons. I started 
+For this project, I was responsible for creating and implementing the weapons. I started off with four base weapons the player could use. These base weapons would then inherit other characteristics such as weapon rarity. Another group member and I then collaborated on implementing a random drop function for the weapons. We decided that the weapons would drop at certain points during the story and the characteristics of the weapon itself would be randomly selected. Therefore, on one playthrough the player might encounter a diamond axe where there was a bronze sword during the last playthrough. I advocated for this to increase the replay factor of the game.
 
-Bellow is concept art I created for the game logo.
+## Code Organization
 
-<img class="ui image" src="../images/soulquest.png">
+This was the first project that I used GitHub in a group setting. As the individual of the group with the most experience with using Git and GitHub, I was responsible for creating and maintaining the repository for our source code. I also assisted other group members with using Git and GitHub such as resolving merge conflicts and creating your own branch to work on. Using GitHub had a positive impact on our progress by helping keep the code organized and allowing the group to solve bugs together.
+
+## More than Programing
+
+This project was also a great opportunity to practice skills other than programing. For example, I got some graphic design practice with creating the logo for the game (shown below).
+
+<p align="center">
+  <img class="ui image" src="../images/soulquest.png">
+</p>
  
 All source code and documentation can be found here: <a href="https://github.com/chriswon98/EE205/tree/master/Final/project"><i class="large github icon"></i>EE205</a>
