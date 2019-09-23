@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/smartlogo.png
 title: Smart Cubby
-permalink: projects/cotton
+permalink: projects/smartcubby
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-13
 labels:
