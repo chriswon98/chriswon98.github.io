@@ -10,7 +10,7 @@ labels:
   - Semantic UI
   - UI Frameworks
 ---
-<img class="ui centered image" src="../images/questions.png">
+<img class="ui floated right rounded image" src="../images/questions.png">
 
 
 ## Title
