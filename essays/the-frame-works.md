@@ -13,7 +13,7 @@ labels:
 
 ## Wait, I Have to What Now?!
 
-<img class="ui small right floated image" src="../images/semantic-log.png">
+<img class="ui small right floated image" src="../images/semantic-logo.png">
 
 Perhaps you've heard the phrase "If it ain’t broke, don't fix it." I was reminded of that particular phrase when I was tasked to learn how to use Semantic UI. This was somewhat annoying and intimidating as I just had gotten the hand of using HTML and CSS. A lot of time and effort went into developing my first websites with just HTML and CSS. However, since the website looked like I hopped into a time machine and went back to the 1990s, I knew that I had to pick up Semantic UI in order to start rolling out stylish 2019 standard sites.
 
