@@ -13,13 +13,13 @@ labels:
 
 ## Wait, I Have to What Now?!
 
-<img class="ui floated right image" src="../images/aint-broke.png">
+<img class="ui right floated image" src="../images/aint-broke.jpg">
 
 Perhaps you've heard the phrase "If it ain’t broke, don't fix it." I was reminded of that particular phrase when I was tasked to learn how to use Semantic UI. This was somewhat annoying and intimidating as I just had gotten the hand of using HTML and CSS. A lot of time and effort went into developing my first websites with just HTML and CSS. However, since the website looked like I hopped into a time machine and went back to the 1990s, I knew that I had to pick up Semantic UI in order to start rolling out stylish 2019 standard sites.
 
 ## A UI Framework?
 
-<img class="ui floated right image" src="../images/toolbox.png">
+<img class="ui medium right floated image" src="../images/toolbox.png">
 
 In a general, a UI framework is a software suite that allows a user to design a responsive and aesthetically pleasing website without the need of deep knowledge of technical and design skills. In a way, a UI framework is like a toolbox. Using the tools make completing the task easier and you don't need to know how to build a hammer or a screwdriver. In my case, Semantic UI is the toolbox that allowed me to ditch the 90s style webpage and dawn the 2019 modern style.
 
