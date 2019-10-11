@@ -11,7 +11,7 @@ labels:
   - UI Frameworks
 ---
 
-## Wait, I Have to What Now?!
+## Wait, I Have to do What Now?!
 
 <img class="ui small right floated image" src="../images/semantic-logo.png">
 
