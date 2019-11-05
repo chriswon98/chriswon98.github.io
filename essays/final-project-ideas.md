@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Final Project Idea
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-5
+date: 2019-11-05
 labels:
   - Software Engineering
   - Meteor
@@ -68,7 +68,7 @@ _The solution:_ Website where a student can save their favorite food trucks and 
 <li>user login -> home page shows where favorite food trucks are today -> click on specific food truck for busy times and ratings</li>
 </ul>
 
-### Beyond the basics
+## Beyond the basics
 
 <ul>
 <li>display the food truck locations on a map</li>
