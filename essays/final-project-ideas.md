@@ -16,6 +16,7 @@ Collaboration between Christopher Won and Aaron Kam
 ### Overview
 
 _The problem:_ ICS students spend too much time watching anime too inefficiently.
+
 _The solution:_ Website that will shuffle your different anime lists so you can stay up-to-date with each one.
 
 ### Mockup page ideas
@@ -25,11 +26,53 @@ _The solution:_ Website that will shuffle your different anime lists so you can 
 <li>user home page</li>
 <li>admin home page</li>
 <li>user profile page</li>
+<li>anime list page</li>
+<li>my anime library</li>
+</ul>
+
+### Use case idea
+
+<ul>
+<li>login -> find anime -> watch -> profit</li>
+</ul>
+
+### Beyond the basics
+
+<ul>
+<li>rating system</li>
 </ul>
 
 ## Project Idea 2
 
-Students can create a profile and indicate their favorite food trucks. Then by logging into their account, they can find out where their favorite food trucks are on campus for that day. You can also view other favorite food trucks and the times people go to the food truck.
+### Overview
+
+_The problem:_ Students struggle to find where their favorite food truck is on campus in a timely manner.
+
+_The solution:_ Website where a student can save their favorite food trucks and see where they are today.
+
+### Mockup page ideas
+
+<ul>
+<li>landing page</li>
+<li>user home page</li>
+<li>admin home page</li>
+<li>user profile page</li>
+<li>busy time page and ratings</li>
+<li>notification settings page</li>
+</ul>
+
+### Use case idea
+
+<ul>
+<li>user login -> save favorite foodtrucks</li>
+<li>user login -> home page shows where favorite food trucks are today -> click on specific food truck for busy times and ratings</li>
+</ul>
+
+### Beyond the basics
+
+<ul>
+<li>display the food truck locations on a map</li>
+</ul>
 
 ## Project Idea 3
 
