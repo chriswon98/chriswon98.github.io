@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: JavaScript and Workout of the Day (or Death?)
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
