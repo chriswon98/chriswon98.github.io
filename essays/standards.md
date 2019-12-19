@@ -9,9 +9,10 @@ labels:
   - Organization
   - Neat Code
 ---
-<img class="ui small left floated image" src="../images/burger.png">
 
 ## Is that a Burger?
+
+<img class="ui small right floated image" src="../images/burger.png">
 
 Imagine you're a chef putting the finishing touches on a burger for a customer. You present the burger to the customer and they stare back at you with a puzzled look. The burger buns are sandwich between the vegetable slices on the top and the meat patty on the bottom. In terms of ingredients, it's a burger but looking at it is rather confusing. Perhaps if Gordon Ramsay was screaming over your shoulder about how the structure of the burger should be "bottom bun, patty, vegetables, and top bun" then the burger wouldn't cause confusion. Making a proper burger and writing proper code share one thing in common - the existence of rules and conventions.
 
