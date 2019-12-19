@@ -10,7 +10,7 @@ labels:
   - Future Goals
   - Experience
 ---
-<img class="ui image" src="../images/confused.jpg">
+<img class="ui centered medium image" src="../images/confused.jpg">
 
 ## My journey so far
 

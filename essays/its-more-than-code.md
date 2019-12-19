@@ -40,7 +40,7 @@ In a software engineering course, there will probably be a mention of coding sta
 
 ## Write Once But Use More Than Twice
 
-<img class="ui medium right floated image" src="../images/template.jpg">
+<img class="ui small right floated image" src="../images/template.jpg">
 
 You may have heard your teacher or your parents tell you the phrase "Don't be lazy!". I have heard this phrase many
  times and it was quite a surprise to hear the exact opposite when I took a software engineering class. Instead of
