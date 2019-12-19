@@ -22,7 +22,7 @@ Taking a software engineering course, may at first glance, appear to be mainly c
  
 ## Standards Are Not A Nightmare
 
-<img class="ui small right floated image" src="../images/eslint.png">
+<img class="ui medium right floated image" src="../images/eslint.png">
 
 In a software engineering course, there will probably be a mention of coding standards. These coding standards
  dictate the syntax and structure of the code and can be integrated into the software development environment. Some
@@ -40,7 +40,7 @@ In a software engineering course, there will probably be a mention of coding sta
 
 ## Write Once But Use More Than Twice
 
-<img class="ui small right floated image" src="../images/template.jpgg">
+<img class="ui medium right floated image" src="../images/template.jpg">
 
 You may have heard your teacher or your parents tell you the phrase "Don't be lazy!". I have heard this phrase many
  times and it was quite a surprise to hear the exact opposite when I took a software engineering class. Instead of
