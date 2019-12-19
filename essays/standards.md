@@ -9,7 +9,7 @@ labels:
   - Organization
   - Neat Code
 ---
-<img class="ui medium left floated image" src="../images/burger.png">
+<img class="ui small left floated image" src="../images/burger.png">
 
 ## Is that a Burger?
 
