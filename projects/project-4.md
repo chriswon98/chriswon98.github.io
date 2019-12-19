@@ -16,7 +16,7 @@ summary: A web application for UH students to discover and share study spots.
 ---
 
 <div align="center">
-    <img class="ui large image" src="../images/btl1.png">
+    <img class="ui image" src="../images/btl1.png">
 </div>
 
 ## Going "Beyond the Library"?
@@ -29,7 +29,7 @@ When it comes time to find a place to study, the first location that comes to mi
      the UH Manoa campus.
 
 <div align="center">
-    <img class="ui large image" src="../images/btl3.png">
+    <img class="ui image" src="../images/btl3.png">
 </div>    
 
 ## My Role
@@ -42,7 +42,7 @@ As part of the Beyond the Library team, I was responsible for creating the landi
      development.
      
 <div align="center">
-    <img class="ui large image" src="../images/btl3.png">
+    <img class="ui image" src="../images/btl3.png">
 </div>
          
 ## The Takeaway
@@ -52,3 +52,9 @@ Developing Beyond the Library was no easy feat and tested my web development ski
   Project Management, my team and I were able to avoid the common deadlocks that arise in web development projects of
    this scale. The use of the lessons learned through Agile Project Management isn't only limited to web development
     and I plan on sharing this method in future group environments that I become a part of.
+
+### Important Links
+
+* [Beyond the Library GitHub Organization Page](https://github.com/beyond-the-library)
+* [Beyond the Library Code Repository](https://github.com/beyond-the-library/beyond-the-library)
+* [Beyond the Library Documentation Website](https://beyond-the-library.github.io/)
