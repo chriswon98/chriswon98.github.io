@@ -6,7 +6,7 @@
       "email": "wonc@hawaii.edu",
       "phone": "808-391-8546",
       "website": "https://chriswon98.github.io",
-      "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+      "summary": "Graduated with a B.S. in Computer Engineering at the University of Hawaii at Manoa and a minor in Japanese.",
       "location": {
         "address": "",
         "postalCode": "96789",
@@ -81,7 +81,7 @@
     "education": [
       {
         "institution": "University of Hawaii at Manoa, Honolulu, HI",
-        "area": "Computer Engineering (expected Spring, 2020)",
+        "area": "Computer Engineering",
         "studyType": "B.S.",
         "startDate": "2016",
         "endDate": "2020",
